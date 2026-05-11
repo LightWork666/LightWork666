@@ -16,8 +16,8 @@ AI pipelines · Agentic infra · Low-level systems
 
 | Project | What it is |
 |---------|------------|
-| 🔄 **BitTrans** | `<!-- ONE LINE: what does it do? -->` |
-| 🕸️ **Loom Node** | `<!-- ONE LINE: what does it do? -->` |
+| 🔄 **BitTrans** | A zero-dependency, byte-level Transformer built in Rust and Metal designed to achieve state-of-the-art data compression via arithmetic coding. |
+| 🕸️ **Loom Node** | decentralized P2P mesh node for the Loom Protocol, featuring self-verifying cryptographically signed messages, collaborative state synchronization, and high-performance observability in Rust |
 | ♠️ **PokerBot** | AI agent that plays Texas Hold'em — decision engine over probability & game theory |
 
 ---
