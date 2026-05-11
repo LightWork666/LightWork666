@@ -57,13 +57,8 @@ Browser-native image compression analyzer. Compare JPEG, PNG, WebP, AVIF side-by
 
 ### Currently
 
-- 3rd year B.Tech CSE (AI & ML) @ Jain University, Bangalore — CGPA 8.8+
+- 3rd year B.Tech CSE (AI & ML) @ Jain University, Bangalore — CGPA 9.0
 - Building production AI systems, not toy demos
 - Open to internships & MTS roles in agentic AI / infra
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LightWork666&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightWork666&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="150"/>
-</div>
